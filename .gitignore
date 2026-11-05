@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 task.json
+.env
+.pytest.ini
+.tests/

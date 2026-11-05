@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "description": "Subir codigo",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "description": "Sadw",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "description": "Crear un repositorio nuevo en GitHub",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "description": "Inicializar Git y realizar el primer commit de tu c\u00f3digo en tu computadora",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "description": "Conectar tu repositorio local con el repositorio remoto en GitHub",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "description": "Enviar (push) tu c\u00f3digo al repositorio remoto",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "description": "Test task",
+        "completed": false
+    }
+]
